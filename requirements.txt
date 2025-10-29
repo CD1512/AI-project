@@ -1,0 +1,17 @@
+requests
+beautifulsoup4
+scrapy
+selenium
+pandas
+numpy
+psycopg2-binary
+sqlalchemy
+fastapi
+uvicorn[standard]
+flask
+langchain
+sentence-transformers
+transformers
+torch
+scikit-learn
+python-dotenv
